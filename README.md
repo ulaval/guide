@@ -1,22 +1,28 @@
 Bienvenue sur le guide d'utilisation de GitHub à l'UL.
 
 # Première connexion
-Afin d'utiliser GitHub, vous aurez besoin de créer un compte personnel. Ce compte personnel peut être lié à votre IDUL grâce au lien suivant:
+Afin d'utiliser GitHub, vous aurez besoin de créer un compte personnel dans GitHub. Ce compte personnel peut être lié à votre IDUL grâce au lien suivant:
 
 https://github.com/enterprises/universit-laval/sso
 
 Si votre unité de possède pas d'organisation, vous pouvez en faire la demande via le canal le canal de support (voir plus bas).
 
-# Support
+# Support et nouvelles
 
-Le support de GitHub se fait principalement via le canal "Support Dev" situé dans le Teams "RI - Communauté RI" de manière à partager la connaissance et l'expertise.
+Le premier niveau de support se fait via l'administrateur de votre organisation.
 
-Nous vous encourageons d'ailleurs à observer et contribuer à ce canal ainsi qu'au canal de la communauté DevOps pour les nouvelles concernant GitHub.
+En cas de problème ou question ne pouvant être répondu, vous pouvez utiliser le canal "Support Dev" situé dans le Teams "RI - Communauté RI" de manière à partager la connaissance et l'expertise.
+
+Voir https://ulavaldti.sharepoint.com/sites/MAGE/SitePages/CdP-2.0.aspx
+
+Tous changements ou nouvelles relatives au service seront communiqués via le canal de la communauté DevOps.
+
+Nous vous encourageons d'ailleurs à observer et contribuer à ces deux canaux.
 
 # Niveau d'accès et partage du code
 Chaque référentiel est lié un niveau de sécurité. Trois valeurs existent qu'il est important de bien comprendre:
 - **public**: Accessible en lecture seule au monde entier
-- **interne**: Accessible en lecture seule à tous les employés en RI de l'UL (les étudiants sont exclus de cette catégorie)
+- **interne**: Accessible en lecture seule à tous les employés en RI de l'UL incluant les chaires de recherche (les étudiants sont exclus de cette catégorie)
 - **privé**: Accessible uniquement aux membres/équipes sélectionnés
 
 Dans l'objectif de facilité le partage d'expertise à l'UL, nous vous encourageons à utiliser le niveau "interne" le plus possible.
@@ -68,7 +74,7 @@ https://github.com/enterprises/universit-laval/sso
 Un admin peut défaire ce lien au besoin.
 
 ## Accès admin
-Chaque unité possède son organisation dans GitHub et chaque unité doit donc identifier ses administrateurs. La responsabilité des administrateurs est d'assurer la gestion des accès, la configuration, la formation, le support et de s'assurer du fonctionnement de son unité.
+Chaque unité ou chaire de recherche possède son organisation dans GitHub et chacun doit donc identifier ses administrateurs. La responsabilité des administrateurs est d'assurer la gestion des accès, la configuration, la formation, le support et de s'assurer du fonctionnement de son unité.
 
 Au départ, certains administrateurs de la DTI seront aussi administrateurs des organisations des unités. Nous vous demandons de ne pas retirer les accès aux administrateurs de la DTI.
 
