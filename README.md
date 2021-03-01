@@ -1,11 +1,21 @@
 Bienvenue sur le guide d'utilisation de GitHub à l'UL.
 
 # Première connexion
-Afin d'utiliser GitHub, vous aurez besoin de créer un compte personnel dans GitHub. Ce compte personnel peut être lié à votre IDUL grâce au lien suivant:
+Afin d'utiliser GitHub, vous aurez besoin de créer un compte personnel dans GitHub. Votre administrateur aura besoin de votre identifiant afin de vous inviter dans la bonne organisation.
+
+Une fois avoir confirmé l'invitation, vous devrez lier votre compte personnel à votre IDUL grâce au lien suivant:
 
 https://github.com/enterprises/universit-laval/sso
 
 Si votre unité de possède pas d'organisation, vous pouvez en faire la demande via le canal le canal de support (voir plus bas).
+
+# Installation du poste de travail
+Si vous utilisez Windows, il est recommandé d'utiliser "Git for windows" afin d'éviter d'avoir à resaisir votre mot de passe: https://gitforwindows.org/
+
+Afin de pouvoir tirer ou pousser des changements, vous aurez besoin de créer un "Personnal access token" en allant au lien suivant: https://github.com/settings/tokens
+Une fois le jeton créé, vous aurez besoin de sélectionner pour quelle organisation vous désirez vous en servir en cliquant sur "Enable SSO".
+
+Ce jeton devient votre mot de passe à configurer dans votre client préféré.
 
 # Support et nouvelles
 
